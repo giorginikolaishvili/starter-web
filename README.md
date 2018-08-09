@@ -8,6 +8,6 @@ And having fun, too
 Sample website with plenty of files for demos
 
 ##copyright
-2018.......
+2018....... alll rights reserved
 ##fork
 do fork
